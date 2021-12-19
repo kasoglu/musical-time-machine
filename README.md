@@ -61,7 +61,7 @@ Then it will take you to the page below, [example.com](example.com) and you need
 Finally, you need to paste the URL into the prompt in console:
 
 <p align="center">
-  <img src="https://i.ibb.co/k5D0rky/flight-dealer.png" alt="console"/>
+  <img src="https://i.ibb.co/VWrV3zY/Screenshot-2021-12-20-at-01-18-38.png" alt="console"/>
 </p>
 
 Check out the link below for more details.
@@ -72,4 +72,4 @@ Check out the link below for more details.
 * [Spotipy Documentation](https://spotipy.readthedocs.io/en/2.13.0/#)
 * [Spotify Developer](https://developer.spotify.com/)
 * [What the Heck is OAuth?](https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth)
-* [Google Sheets](https://docs.google.com)
+
