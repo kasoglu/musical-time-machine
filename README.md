@@ -8,7 +8,8 @@ Through this project, you can create a popular songs playlist on Spotify accordi
 [Billboard](https://www.billboard.com/) compiles a list of the top 100 songs. So these are the most played songs during a particular week. And if you go to [The Hot 100](https://www.billboard.com/charts/hot-100/) section, you'll see it for the current week, but there's also a feature where you can change the date to any data in the past 20 years.
 
 <p align="center">
-  <img src="https://i.ibb.co/k5D0rky/flight-dealer.png" alt="flightdealer"/>
+  <img src="https://i.giphy.com/media/b0U8Pwlt71GBE8Xw1X/giphy.webp" alt="time-machine"/>
+  <img src="https://i.ibb.co/1M5b4V8/Screenshot-2021-12-20-at-01-36-34.png" alt="playlist"/>
 </p>
 
 # Installing
@@ -48,14 +49,22 @@ Once you replace the own details in the code, run the program.
 Then type which date you want to create a playlist on Spotify. If everything is okay, you should see the page below show up automatically (be sure to click Agree):
 
 <p align="center">
-  <img src="https://i.ibb.co/k5D0rky/flight-dealer.png" alt="flightdealer"/>
+  <img src="https://i.ibb.co/LvzggfP/2020-08-12-15-29-07-8ba3fc5c277b107461713b02e4258407.png" alt="billboard-oath"/>
 </p>
 
-Then it will take you to the page below, example.com and you need to copy the entire URL in the address bar:
+Then it will take you to the page below, [example.com](example.com) and you need to **copy the entire URL** in the address bar:
 
-Check out the link below for more details about API sources.
+<p align="center">
+  <img src="https://i.ibb.co/xDXNrXd/2020-08-12-15-32-02-17be790a8783bf4fdc4eeff77b497044.png" alt="auth-token"/>
+</p>
 
-# Description
+Finally, you need to paste the URL into the prompt in console:
+
+<p align="center">
+  <img src="https://i.ibb.co/k5D0rky/flight-dealer.png" alt="console"/>
+</p>
+
+Check out the link below for more details.
 
 
 # Documentations
